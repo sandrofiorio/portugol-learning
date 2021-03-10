@@ -2,7 +2,7 @@ algoritmo "primeiroAlgoritmo"
 var
    msg: caractere
 inicio
-      msg <- "Olá, mundo!"
+      msg <- "Ola, mundo!"
       Escreval("mensagem: ", msg)
-      Escreval("Olá, Mundo! Me livre desta maldição.")
+      Escreval("Ola, Mundo! Me livre desta maldicao.")
 fimalgoritmo
